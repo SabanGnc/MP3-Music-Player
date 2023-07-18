@@ -1,0 +1,13 @@
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\bin\Debug\MP3 Music Player.exe.config
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\bin\Debug\MP3 Music Player.exe
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\bin\Debug\MP3 Music Player.pdb
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\bin\Debug\Guna.UI2.dll
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.csproj.AssemblyReference.cache
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3_Music_Player.Form1.resources
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3_Music_Player.Properties.Resources.resources
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.csproj.GenerateResource.cache
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.csproj.CoreCompileInputs.cache
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.csproj.CopyComplete
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.exe
+C:\Users\saban\OneDrive\Masaüstü\MP3 Music Player\MP3 Music Player\MP3 Music Player\obj\Debug\MP3 Music Player.pdb
