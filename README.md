@@ -16,7 +16,6 @@ Uygulamada aşağıdaki işlevlere sahip butonlar bulunur:
 
 ▶️ Resume butonu: Duraklatılan şarkıyı tekrar başlatmak için kullanılır. Kullanıcı, durdurulan şarkıyı istediği zaman kaldığı yerden devam ettirebilir.
 
-Bu uygulama, kullanıcılara mp3 müzik dosyalarını kolaylıkla çalma ve kontrol etme imkanı sunarak müzik dinleme deneyimini geliştirmeyi hedeflemektedir. 🎧
 
 <div align="center">
   <a href="https://github.com/SabanGnc">
